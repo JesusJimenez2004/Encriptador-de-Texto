@@ -6,4 +6,5 @@
 - Se desarrollo la logica con javascript, se implemento la opcion de encriptar y desencriptar.
 - Se implementaron animaciones y diseño a gusto personal.
 - Este proyecto se creo en los cursos de alura latam x oracle en sumergete con javacript como un challenge.
-- Tecnologias: HTML,CSS,JAVASCRIPT
+- Tecnologias: HTML,CSS,JAVASCRIPT.
+- Deployment del proyecto: https://jesusjimenez2004.github.io/Encriptador-de-Texto/
